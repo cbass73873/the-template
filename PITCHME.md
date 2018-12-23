@@ -5,4 +5,4 @@
 @size[1.5em](Das ist der Action Title)
 @snapend
 
-@img[positioning](template/img/608px-Volksbank_Logo.svg.png)
+@img[positioning span-60](template/img/608px-Volksbank_Logo.svg.png)
