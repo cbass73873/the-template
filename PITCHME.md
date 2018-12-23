@@ -5,8 +5,4 @@
 @size[1.5em](Das ist der Action Title)
 @snapend
 
-.reveal img.positioning {
-position: top left;
-}
-
 @img[positioning](template/img/608px-Volksbank_Logo.svg.png)
