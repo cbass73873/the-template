@@ -56,6 +56,10 @@
 
 /** Image Template Styles ***/
 
+.reveal img.positioning {
+position: top left;
+}
+
 /** Sidebox Template Styles ***/
 
 /** Code-Presenting Template Styles ***/
