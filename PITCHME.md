@@ -5,4 +5,4 @@
 @size[1.5em](Das ist der Action Title)
 @snapend
 
-![Logo](template/img/608px-Volksbank_Logo.svg.png&size=40%)
+![Logo](template/img/608px-Volksbank_Logo.svg.png&size=40% auto)
