@@ -6,4 +6,4 @@
 @snapend
 
 ![logo](template/img/608px-Volksbank_Logo.svg.png)
-@backgrpund-position=top 100px left 100px&size=100% auto
+@background-position=top 100px left 100px&size=100% auto
